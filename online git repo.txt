@@ -21,6 +21,10 @@ At the prompt, type the following to push the commits to the online repository:
 
   2)git push -u origin master
   
+  3)git branch <new branch name>
+  
+  its used to create new branch
+  
 Cloning an online repository
 To clone an online repository to your computer, type the following at the prompt:
 
